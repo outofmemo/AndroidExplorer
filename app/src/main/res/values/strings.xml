@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">explorer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_search">搜索</string>
+    <string name="action_sort">排列依据</string>
+    <string name="action_view">查看模式</string>
+    <string name="action_close">关闭当前标签</string>
+    <string name="action_refresh">刷新</string>
+    <string name="action_search">搜索</string>
+    <string name="nav_home">返回主文件夹</string>
+    <string name="nav_favorite">书签</string>
+    <string name="nav_search">搜索</string>
+    <string name="nav_new">新建</string>
+    <string name="nav_info">关于</string>
+    <string name="nav_exit">退出</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--set checkableBehavior="none" to cancel the select background -->
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/ic_home_black_24dp"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@mipmap/ic_favorite_black_24dp"
+            android:title="@string/nav_favorite" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@mipmap/ic_search_black_24dp"
+            android:title="@string/nav_search" />
+        <item
+            android:id="@+id/nav_new"
+            android:icon="@mipmap/ic_add_black_24dp"
+            android:title="@string/nav_new" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@mipmap/ic_info_outline_black_24dp"
+            android:title="@string/nav_info" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@mipmap/ic_exit_to_app_black_24dp"
+            android:title="@string/nav_exit" />
+    </group>
+
+</menu>
