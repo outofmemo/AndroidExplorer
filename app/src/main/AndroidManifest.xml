@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.sjj.echo.explorer">
 
-    <uses-permission android:name="android.permission.CLEAR_APP_CACHE" />
+    <!--uses-permission android:name="android.permission.CLEAR_APP_CACHE" /-->
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />

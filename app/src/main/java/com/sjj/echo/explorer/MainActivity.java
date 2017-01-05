@@ -189,7 +189,7 @@ public class MainActivity extends AppCompatActivity
     @TargetApi(Build.VERSION_CODES.M)
     private void getPermission()
     {
-        String[] permissions = {"android.permission.CLEAR_APP_CACHE","android.permission.RECEIVE_BOOT_COMPLETED",
+        String[] permissions = {"android.permission.RECEIVE_BOOT_COMPLETED",
         "android.permission.WRITE_EXTERNAL_STORAGE"};
         ArrayList<String> preToDo = new ArrayList<>();
         boolean tip = false;
